@@ -794,6 +794,11 @@
         <font weight="300" style="normal">VTKSDURA3d.ttf</font>
     </family>
 
+    <!-- VolteRounded -->
+    <family customizationType="new-named-family" name="VolteRounded">
+        <font weight="300" style="normal">VolteRounded.ttf</font>
+    </family>
+
     <!-- ZnikomitNo24 -->
     <family customizationType="new-named-family" name="ZnikomitNo24">
         <font weight="300" style="normal">ZnikomitNo24.ttf</font>

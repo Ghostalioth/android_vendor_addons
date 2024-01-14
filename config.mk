@@ -121,6 +121,7 @@ PRODUCT_PACKAGES += \
     ClockFontUbuntuOverlay \
     ClockFontVtksdura3dOverlay \
     ClockFontZnikomitNo24Overlay \
+    ClockFontVolteRoundedOverlay \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
@@ -155,6 +156,11 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
+<<<<<<< HEAD
+=======
+    FontRosemaryOverlay \
+    FontVolteRoundedOverlay \
+>>>>>>> 018cc379... addon: Added VolteRounded font
     FontUbuntuOverlay
 
 # Icon Packs
