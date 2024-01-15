@@ -122,6 +122,7 @@ PRODUCT_PACKAGES += \
     ClockFontVtksdura3dOverlay \
     ClockFontZnikomitNo24Overlay \
     ClockFontVolteRoundedOverlay \
+    ClockFontVolteRoundedBoldOverlay \
     FontAccuratistOverlay \
     FontAclonicaOverlay \
     FontAmaranteOverlay \
