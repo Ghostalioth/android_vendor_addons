@@ -124,6 +124,15 @@
     <alias name="cocon-semi-bold" to="cocon" weight="600" />
     <alias name="cocon-bold" to="cocon" weight="700" />
 
+    <!-- Cocon Thin-->
+    <family customizationType="new-named-family" name="CoconThin">
+        <font weight="400" style="normal">CoconThin.ttf</font>
+    </family>
+    <alias name="CoconThin-light" to="CoconThin" weight="300" />
+    <alias name="CoconThin-medium" to="CoconThin" weight="500" />
+    <alias name="CoconThin-semi-bold" to="CoconThin" weight="600" />
+    <alias name="CoconThin-bold" to="CoconThin" weight="700" />
+
     <!-- Comfortaa -->
     <family customizationType="new-named-family" name="comfortaa">
         <font weight="400" style="normal">Comfortaa.ttf</font>

@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
     ClockFontCagliostroOverlay \
     ClockFontCatOverlay \
     ClockFontCoconOverlay \
+    ClockFontCoconThinOverlay \
     ClockFontComfortaaOverlay \
     ClockFontComicSansOverlay \
     ClockFontConcentrateOverlay \
@@ -129,6 +130,7 @@ PRODUCT_PACKAGES += \
     FontBariolOverlay \
     FontCagliostroOverlay \
     FontCoconOverlay \
+    FontCoconThinOverlay \
     FontComfortaaOverlay \
     FontComicSansOverlay \
     FontCookieRunOverlay \
