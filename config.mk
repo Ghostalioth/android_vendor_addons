@@ -161,11 +161,8 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
-<<<<<<< HEAD
-=======
     FontRosemaryOverlay \
     FontVolteRoundedOverlay \
->>>>>>> 018cc379... addon: Added VolteRounded font
     FontUbuntuOverlay
 
 # Icon Packs
